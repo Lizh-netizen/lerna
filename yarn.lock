@@ -1523,13 +1523,13 @@ eventemitter3@^4.0.4:
   integrity sha512-8guHBZCwKnFhYdHr2ysuRWErTwhoN2X8XELRlrRwpmfeY2jjuUN4taQMsULKUVo1K4DvZl+0pgfyoysHxvmvEw==
 
 "example1@file:/Users/edy/Desktop/new-lerna-workspace/packages/example1":
-  version "0.0.1"
+  version "0.1.0"
   resolved "file:packages/example1"
   dependencies:
     express "^4.19.2"
 
-"example2@file:/Users/edy/Desktop/new-lerna-workspace/packages/example2":
-  version "0.0.1"
+"example233@file:/Users/edy/Desktop/new-lerna-workspace/packages/example2":
+  version "0.1.0"
   resolved "file:packages/example2"
   dependencies:
     vue "^3.4.25"
