@@ -1,5 +1,5 @@
 {
-  "name": "example2",
+  "name": "example233",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "li <17839228268@163.com>",
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "vue": "^3.4.25"
-  }
+  },
+  "gitHead": "da32fa18a53f453ef3a43d42272ffdff6b238f9a"
 }
