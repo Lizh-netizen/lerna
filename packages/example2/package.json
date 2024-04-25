@@ -1,0 +1,22 @@
+{
+  "name": "example2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "li <17839228268@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/example2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/example2.test.js"
+  },
+  "dependencies": {
+    "vue": "^3.4.25"
+  }
+}

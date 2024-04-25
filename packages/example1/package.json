@@ -1,0 +1,22 @@
+{
+  "name": "example1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "li <17839228268@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/example1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/example1.test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
